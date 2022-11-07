@@ -1,4 +1,4 @@
 # MAT388E
-#Ahmet Erden - 090190743
-#MAT388E GitHub Repo
+Ahmet Erden - 090190743
+MAT388E GitHub Repo
 
