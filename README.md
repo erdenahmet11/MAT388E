@@ -1,4 +1,2 @@
-# MAT388E
-Ahmet Erden - 090190743
-MAT388E GitHub Repo
+# MAT388E-Data Analysis for Fundamental Sciences
 
